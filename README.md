@@ -250,101 +250,102 @@ d=1ν=dycosФ,       (13)
 
 1. Графики распределения интенсивности при Ω<sub>S</sub> = -15<sup>o</sup> и Ω<sub>R</sub> = 0<sup>o</sup> и с разными длинами волн.
 
-   ![](Aspose.Words.dfad133b-a8f9-4cfd-845e-3f3f0b7ebc3e.008.png)
+![](Assets/Graphs11.png)
 
-
-
-![](Aspose.Words.dfad133b-a8f9-4cfd-845e-3f3f0b7ebc3e.009.png)
+Рисунок III. Распределение интенсивности при ϴS = -15 o, ϴR = 0 o, λ = 0.35 мкм
 
 Таблица 1. Значения параметров решетки при Ω<sub>S</sub> = -15°, Ω<sub>R</sub> = 0<sup>o</sup>, λ = 0.35 мкм
 
-![](Aspose.Words.dfad133b-a8f9-4cfd-845e-3f3f0b7ebc3e.010.png)
-
-![](Aspose.Words.dfad133b-a8f9-4cfd-845e-3f3f0b7ebc3e.011.png)
+![](Assets/Table11.png)
 
 
 
-![](Aspose.Words.dfad133b-a8f9-4cfd-845e-3f3f0b7ebc3e.012.png)
+![](Assets/Graphs12.png)
+
+Рисунок IV. Распределение интенсивности при ϴS = -15 o, ϴR = 0 o, λ = 0.7 мкм.
 
 Таблица 2. Значения параметров решетки при Ω<sub>S</sub> = -15°, Ω<sub>R</sub> = 0<sup>o</sup>, λ = 0.7 мкм
 
-![](Aspose.Words.dfad133b-a8f9-4cfd-845e-3f3f0b7ebc3e.013.png)
+![](Assets/Table12.png)
 
 
 
-![](Aspose.Words.dfad133b-a8f9-4cfd-845e-3f3f0b7ebc3e.014.png)![](Aspose.Words.dfad133b-a8f9-4cfd-845e-3f3f0b7ebc3e.015.png)
+![](Assets/Graphs13.png)
+
+Рисунок V. Распределение интенсивности при ϴS = -15 o, ϴR = 0 o, λ = 1.5 мкм.
 
 Таблица 3. Значения параметров решетки при Ω<sub>S</sub> = -15°, Ω<sub>R</sub> = 0<sup>o</sup>, λ = 1.5 мкм
 
-![](Aspose.Words.dfad133b-a8f9-4cfd-845e-3f3f0b7ebc3e.016.png)
+![](Assets/Table13.png)
 
 На представленных выше рисунках заметно, что угол наклона решетки не изменяется с длиной волны. С возрастанием длины волны увеличился пространственный период решетки и соответственно уменьшилась пространственная частота.
 
+
+
 1. Графики распределения интенсивности при Ω<sub>S</sub> = -25<sup>o</sup> и Ω<sub>R</sub> = 0<sup>o</sup> и с разными длинами волн.
 
-![](Aspose.Words.dfad133b-a8f9-4cfd-845e-3f3f0b7ebc3e.017.png)
+![](Assets/Graphs21.png)
 
 Рисунок VI. Распределение интенсивности при ϴS = -25 *<sup>o</sup>*, ϴR = 0 *<sup>o</sup>*, λ = 0.35 мкм.
 
 Таблица 1. Значения параметров решетки при Ω<sub>S</sub> = -25°, Ω<sub>R</sub> = 0<sup>o</sup>, λ = 0.35 мкм
 
-![](Aspose.Words.dfad133b-a8f9-4cfd-845e-3f3f0b7ebc3e.018.png)
-
-![](Aspose.Words.dfad133b-a8f9-4cfd-845e-3f3f0b7ebc3e.019.png)
+![](Assets/Table21.png)
 
 
 
-![](Aspose.Words.dfad133b-a8f9-4cfd-845e-3f3f0b7ebc3e.020.png)
+![](Assets/Graphs22.png)
+
+Рисунок VI. Распределение интенсивности при ϴS = -25 o, ϴR = 0 o, λ = 0.7 мкм.
 
 Таблица 2. Значения параметров решетки при Ω<sub>S</sub> = -25°, Ω<sub>R</sub> = 0<sup>o</sup>, λ = 0.7 мкм
 
-![](Aspose.Words.dfad133b-a8f9-4cfd-845e-3f3f0b7ebc3e.021.png)
-
-![](Aspose.Words.dfad133b-a8f9-4cfd-845e-3f3f0b7ebc3e.022.png)
+![](Assets/Table22.png)
 
 
 
-![](Aspose.Words.dfad133b-a8f9-4cfd-845e-3f3f0b7ebc3e.023.png)
+![](Assets/Graphs23.png)
 
-Таблица 3. Значения параметров решетки при Ω<sub>S</sub> = -25°, Ω<sub>R</sub> = 0<sup>o</sup>, λ = 1.5 мкм
+Рисунок VIII. Распределение интенсивности при ϴS = -25 o, ϴR = 0 o, λ = 1.5 мкм.
 
-![](Aspose.Words.dfad133b-a8f9-4cfd-845e-3f3f0b7ebc3e.024.png)
+Таблица 3. Значения параметров решетки при Ω<sub>S</sub> = -25°, Ω<sub>R</sub> = 0°, λ = 1.5 мкм
+
+![](Assets/Table23.png)
 
 При рассмотрении рисунков с распределением интенсивности при Ω<sub>S</sub> = -25<sup>o</sup>, Ω<sub>R</sub> = 0<sup>o</sup> угол наклона решетки остается неизменным с увеличением длины волны, но также увеличился пространственный период и уменьшилась пространственная частота. По сравнению с первым случаем, когда Ω<sub>S</sub> = -15<sup>o</sup>, Ω<sub>R</sub> = 0<sup>o</sup> угол наклона решетки уменьшился, так как разница углов падения сигнальной и референтной волн стала меньше.
 
-1. Графики распределения интенсивности при ϴ<sub>S</sub> = -35 <sup>o</sup> и ϴ<sub>R</sub> = 0<sup>o</sup> с разными длинами волн.
-
-![](Aspose.Words.dfad133b-a8f9-4cfd-845e-3f3f0b7ebc3e.025.png)
 
 
+1. Графики распределения интенсивности при ϴ<sub>S</sub> = -35° <sup>o</sup> и ϴ<sub>R</sub> = 0° с разными длинами волн.
 
-![](Aspose.Words.dfad133b-a8f9-4cfd-845e-3f3f0b7ebc3e.026.png)
+![](Assets/Graphs31.png)
 
-Таблица 1. Значения параметров решетки при Ω<sub>S</sub> = -35°, Ω<sub>R</sub> = 0<sup>o</sup>, λ = 0.35 мкм
+Рисунок IX. Распределение интенсивности при ϴS = -35°, ϴR = 0°, λ = 0.35 мкм.
 
-![](Aspose.Words.dfad133b-a8f9-4cfd-845e-3f3f0b7ebc3e.027.png)
+Таблица 1. Значения параметров решетки при Ω<sub>S</sub> = -35°, Ω<sub>R</sub> = 0°, λ = 0.35 мкм
 
-![](Aspose.Words.dfad133b-a8f9-4cfd-845e-3f3f0b7ebc3e.028.png)
+![](Assets/Table31.png)
 
 
 
-![](Aspose.Words.dfad133b-a8f9-4cfd-845e-3f3f0b7ebc3e.029.png)
+![](Assets/Graphs32.png)
+
+Рисунок X. Распределение интенсивности при ϴS = -35°, ϴR = 0°, λ = 0.7 мкм.
 
 Таблица 2. Значения параметров решетки при Ω<sub>S</sub> = -35°, Ω<sub>R</sub> = 0<sup>o</sup>, λ = 0.7 мкм
 
-![](Aspose.Words.dfad133b-a8f9-4cfd-845e-3f3f0b7ebc3e.030.png)
+![](Assets/Table32.png)
 
 
 
-![](Aspose.Words.dfad133b-a8f9-4cfd-845e-3f3f0b7ebc3e.031.png)
+![](Assets/Graphs33.png)
 
+Рисунок XI Распределение интенсивности при ϴS = -35 o, ϴR = 0 o, λ = 1.5 мкм.
 
+Таблица 3. Значения параметров решетки при Ω<sub>S</sub> = -35°, Ω<sub>R</sub> = 0<sup>o</sup>, λ = 1.5 мкм
 
-![](Aspose.Words.dfad133b-a8f9-4cfd-845e-3f3f0b7ebc3e.032.png)
+![](Assets/Table33.png)
 
-` `Таблица 3. Значения параметров решетки при Ω<sub>S</sub> = -35°, Ω<sub>R</sub> = 0<sup>o</sup>, λ = 1.5 мкм
-
-![](Aspose.Words.dfad133b-a8f9-4cfd-845e-3f3f0b7ebc3e.033.png)
 
 Как и в двух предыдущих случаях пространственный период увеличивается с длиной волны, а пространственная частота уменьшается. Так же, с изменением длины волны остается неизменным угол наклона решетки. По сравнению со случаем, когда Ω<sub>S</sub> = -25<sup>o</sup>, Ω<sub>R</sub> = 0<sup>o</sup> угол наклона решетки увеличился, как и разность углов падения сигнальной и референтной волн. Если сравнивать со случаем, когда Ω<sub>S</sub> = -15<sup>o</sup>, Ω<sub>R</sub> = 0<sup>o</sup> угол наклона решетки зеркально отразился.
 
