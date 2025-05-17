@@ -148,7 +148,7 @@ def create_graphs(wavelength, theta_R, theta_S, n_1, n_2):
     plt.tight_layout()
     plt.subplots_adjust(hspace=0.5, top=0.90)
 
-    plt.show()
+    plt.savefig('results_table.png', bbox_inches='tight', dpi=300)
 
 
 def input_data():
@@ -207,10 +207,7 @@ def create_table_image(params, n_1, n_2):
 
     # Сохраняем таблицу как изображение
     plt.savefig('results_table.png', bbox_inches='tight', dpi=300)
-    # plt.close()
 
-    # Показываем таблицу (опционально)
-    plt.show()
 
 
 if __name__ == '__main__':
@@ -235,3 +232,5 @@ if __name__ == '__main__':
     create_table_image(params, n_1, n_2)
 
     create_graphs(wavelength, theta_R, theta_S, n_1, n_2)
+
+    plt.show()
