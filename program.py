@@ -125,6 +125,10 @@ def create_graphs(wavelength, theta_R, theta_S, n_1, n_2):
 
     ax2 = fig.add_subplot(222)
     contour = ax2.contourf(Y, X, I_air, 20, cmap='viridis')
+    tilt_angle_air = params['air']['tilt_angle']
+    ax2.annotate(f'Угол наклона: {tilt_angle_air:.1f}°', xy=(0.05, 0.95), xycoords='axes fraction', bbox=dict(boxstyle='round', fc='white', alpha=0.8))
+    bragg_angle_air = params['air']['bragg_angle']
+    ax2.annotate(f'Угол Брэгга: {bragg_angle_air:.1f}°', xy=(0.05, 0.85), xycoords='axes fraction', bbox=dict(boxstyle='round', fc='white', alpha=0.8))
     ax2.set_title(f'Проекция на плоскость X-Y\nθS = {theta_S}°, θR = {theta_R}°, λ = {wavelength/n_1:.2f} (мкм)')
     ax2.set_xlabel('Y (мкм)')
     ax2.set_ylabel('Z (мкм)')
@@ -140,6 +144,10 @@ def create_graphs(wavelength, theta_R, theta_S, n_1, n_2):
 
     ax2 = fig.add_subplot(224)
     contour = ax2.contourf(Y, X, I_medium, 20, cmap='plasma')
+    tilt_angle_medium = params['medium']['tilt_angle']
+    ax2.annotate(f'Угол наклона: {tilt_angle_medium:.1f}°', xy=(0.05, 0.95), xycoords='axes fraction', bbox=dict(boxstyle='round', fc='white', alpha=0.8))
+    bragg_angle_medium = params['medium']['bragg_angle']
+    ax2.annotate(f'Угол Брэгга: {bragg_angle_medium:.1f}°', xy=(0.05, 0.85), xycoords='axes fraction', bbox=dict(boxstyle='round', fc='white', alpha=0.8))
     ax2.set_title(f'Проекция на плоскость X-Y\nθS = {theta_S}°, θR = {theta_R}°, λ = {wavelength/n_2:.2f} (мкм)')
     ax2.set_xlabel('Y (мкм)')
     ax2.set_ylabel('Z (мкм)')
@@ -207,7 +215,6 @@ def create_table_image(params, n_1, n_2):
 
     # Сохраняем таблицу как изображение
     plt.savefig('results_table.png', bbox_inches='tight', dpi=300)
-
 
 
 if __name__ == '__main__':
